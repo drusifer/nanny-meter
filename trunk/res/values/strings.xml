@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, NannyMeterActivity!</string>
+    <string name="app_name">NannyMeter</string>
+    <string name="default_rate">10.0</string>
+    <string name="default_tip">15</string>
+    <string name="wereoff">We\'re Off</string>
+    <string name="reset">Reset</string>
+    <string name="starttime">Start Time:</string>
+    <string name="change">Change</string>
+    <string name="time">Time:</string>
+    <string name="youowe">You Owe:</string>
+    <string name="nannymeter">Nanny Meter</string>    
+    <string name="rate">$/Hour:</string>    
+    <string name="tip">Tip%:</string>
+</resources>
