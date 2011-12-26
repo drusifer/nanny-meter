@@ -21,9 +21,9 @@
             android:id="@+id/linearLayout2"
             android:layout_width="match_parent"
             android:layout_height="match_parent" >
-
+
             <TextView
-                android:id="@+id/textView2"
+                android:id="@+id/rateLabel"
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="5dp"
@@ -41,9 +41,9 @@
 
                 <requestFocus />
             </EditText>
-
+
             <TextView
-                android:id="@+id/textView3"
+                android:id="@+id/tipLabel"
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="5dp"
