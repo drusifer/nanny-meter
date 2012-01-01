@@ -16,11 +16,8 @@ ActivityInstrumentationTestCase2<NannyMeterActivity> {
 
 	private NannyMeterActivity mActivity;
 	private TextView mStartTimeView;
-	//	private String resourceString;
 	private EditText mRateView;
 	private EditText mTipView;
-	//	private TextView mRateLabel;
-	//	private TextView mTipLabel;
 	private ToggleButton mStartStopView;
 
 	public NannyMeterTest() {
@@ -38,10 +35,7 @@ ActivityInstrumentationTestCase2<NannyMeterActivity> {
 			} } ); 
 		mStartTimeView = (TextView) mActivity.findViewById(com.dru.nm.R.id.starttime);
 		mRateView = (EditText) mActivity.findViewById(com.dru.nm.R.id.rate);
-		//	mRateLabel = (TextView) mActivity.findViewById(com.dru.nm.R.id.rateLabel);
 		mTipView   = (EditText) mActivity.findViewById(com.dru.nm.R.id.tip);
-		//	mTipLabel   = (TextView) mActivity.findViewById(com.dru.nm.R.id.tipLabel);
-		//	resourceString = mActivity.getString(com.dru.nm.R.string.nannymeter);
 		mStartStopView = (ToggleButton) mActivity.findViewById(com.dru.nm.R.id.startstop); 
 	}
 

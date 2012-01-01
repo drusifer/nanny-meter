@@ -13,5 +13,9 @@
     <string name="youowe">You Owe:</string>
     <string name="nannymeter">Nanny Meter</string>    
     <string name="rate">$/Hour:</string>    
-    <string name="tip">Tip%:</string>
+    <string name="tip">Tip%:</string>    
+    <string name="reset_meter">Reset Meter</string>    
+    <string name="meter_on">Meter On</string>    
+    <string name="meter_off">Meter Off</string>    
+    <string name="description">Nanny Meter is an anpp which lets you keep track of how much you owe your baby sitter when you go out for the night.  You start it when you go out and it tell\'s you exactly how much you owe, like a taxi meter.</string>
 </resources>
