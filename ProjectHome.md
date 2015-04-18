@@ -1,0 +1,1 @@
+This app is used to keep track of how much you owe your baby sitter.  It works like a taxi meter.
